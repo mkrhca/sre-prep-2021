@@ -14,7 +14,7 @@ Git
 </pre>
 
 ##### System Administration and Automation
-</pre>
+<pre>
 Network Fundamentals
 Practical System and Network Administration 
 Cloud System Administration 
