@@ -65,7 +65,7 @@ CKA (Certification) - 15 hours
 Distributed Systems - 25 hours 
 </pre>
 
-### SRE PREP - STEP THREE (3rd Month) average 5 hours/day, 5 days/week
+### SRE PREP - STEP THREE (3rd Month) average 4.5 hours/day, 5 days/week
 <pre>
 Monitoring Kubernetes with Prometheus - 5 hours 
 Site Reliability Workbook - 11 hours 
@@ -75,10 +75,9 @@ Nginx - 9 hours
 Kubernetes Orchestration and Management - 25 hours 
 </pre>
 
-### SRE PREP - STEP FOUR (4th Month) average 4 hours/day, 5 days/week
+### SRE PREP - STEP FOUR (4th Month) average 3.5 hours/day, 5 days/week
 <pre>
 AWS Certifed Security - Speciality - 33 hours total
-Developing Scalable Apps in Python - 5 hours 
 Grafana - 8 hours 
 Terraform - 25 hours 
 GitLab - 2 hours 
