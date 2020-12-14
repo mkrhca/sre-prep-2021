@@ -49,21 +49,18 @@ Network Diagnostic Tools
 </pre>
 
 
-### SRE PREP - STEP ONE (1st Month) average 4 hours/day, 5 days/week
+### SRE PREP - STEP ONE (1st Month) average 2.5 hours/day, 5 days/week
 <pre>
+Git - 5 hours 
+Docker Deep Dive - 13 hours 
 AWS Certified Developer Associate - 30 hours 
 Systems Security Certified Professional (SSCP) - 6 hours 
-Python Essentials - 15 hours 
-Go Systems Programming - 12 hours 
-Network Fundamentals - 6 hours 
-Docker Deep Dive - 13 hours 
 </pre>
 
-### SRE PREP - STEP TWO (2nd Month) average 6 hours/day, 5 days/week
+### SRE PREP - STEP TWO (2nd Month) average 3.5 hours/day, 5 days/week
 <pre>
-Mastering Object-oriented Python - 30 hours 
-Site Reliability Engineering - 26 hours 
-Apache Web Server Hardening - 19 hours 
+Site Reliability Engineering - 25 hours 
+Apache Web Server Hardening - 5 hours 
 CKA (Certification) - 15 hours 
 Distributed Systems - 25 hours 
 </pre>
@@ -72,7 +69,6 @@ Distributed Systems - 25 hours
 <pre>
 Monitoring Kubernetes with Prometheus - 5 hours 
 Site Reliability Workbook - 11 hours 
-Modern Python Cookbook - 11 hours 
 Distributed Systems - 25 hours 
 CKAD (Certification) - 18 hours 
 Nginx - 9 hours
@@ -85,7 +81,6 @@ AWS Certifed Security - Speciality - 33 hours total
 Developing Scalable Apps in Python - 5 hours 
 Grafana - 8 hours 
 Terraform - 25 hours 
-Git - 5 hours 
 GitLab - 2 hours 
 DevOps Monitoring Deep Dive - 6 hours 
 </pre>
